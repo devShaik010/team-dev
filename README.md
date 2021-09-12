@@ -1,3 +1,3 @@
 # team-dev
 Devloper team website for friends 😊
-010devteam.me
+https://010devteam.me/
